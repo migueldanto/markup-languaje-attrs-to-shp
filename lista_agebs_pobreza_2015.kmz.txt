@@ -1,0 +1,35 @@
+INFO: Open of `agebs_pobreza_2015.kmz'
+      using driver `LIBKML' successful.
+1: rango de pobreza extrema (20 - 100]
+2: 01_Aguascalientes
+3: 02_Baja California
+4: 03_Baja California Sur
+5: 04_Campeche
+6: 05_Coahuila
+7: 06_Colima
+8: 07_Chiapas
+9: 08_Chihuahua
+10: 09_Ciudad de México
+11: 10_Durango
+12: 11_Guanajuato
+13: 12_Guerrero
+14: 13_Hidalgo
+15: 14_Jalisco
+16: 15_México
+17: 16_Michoacán
+18: 17_Morelos
+19: 18_Nayarit
+20: 19_Nuevo León
+21: 20_Oaxaca
+22: 21_Puebla
+23: 22_Querétaro
+24: 23_Quintana Roo
+25: 24_San Luis Potosí
+26: 25_Sinaloa
+27: 26_Sonora
+28: 27_Tabasco
+29: 28_Tamaulipas
+30: 29_Tlaxcala
+31: 30_Veracruz
+32: 31_Yucatán
+33: 32_Zacatecas
